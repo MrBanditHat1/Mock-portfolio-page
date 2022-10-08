@@ -1,0 +1,45 @@
+.text{
+    font-size: 4rem;
+}
+
+.container-styles{
+    width: 60%;
+    height: 60%;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.slider-styles{
+    height: 100%;
+    position: relative;
+    
+}
+
+
+.left-arrow{
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    left: 32px;
+    font-size: 45px;
+    color: green;
+    z-index: 10;
+    cursor: pointer;
+    background-color: red;
+}
+
+
+.right-arrow{
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 32px;
+    font-size: 45px;
+    color: green;
+    z-index: 10;
+    cursor: pointer;
+    background-color: blue;
+}
+

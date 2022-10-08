@@ -1,0 +1,25 @@
+
+
+
+List of problems and thoughts that I have in terms of front-end development
+
+
+
+
+1. When looking at a design, I have a difficult time on how to split the HTML. For instance, should my <header> tag
+just contain the navigation bar? Or should other elements be in there too?
+
+
+
+2.Is it prudent to make the whole body of a page a grid?
+
+
+3. Should I define my columns and rows right away if I define my page as a grid?
+
+
+4. Once I define my rows and columns, is it possible to add a margin or a padding between the rows? When I try to do this I find that the
+content gets squished as opposed to being spaced from one row to the other.
+
+
+5. when using row-gap or column-gap, am I able to a particular gap? As in, what if I want my rows seperated, but not evenly; where I would want say a 5em gap between 
+one set of rows, and a 8em gap between another set of rows. Is there way to use this property to individually target such gaps? Or is it a property can only target all gaps?
